@@ -5,7 +5,11 @@
 </head>
 <body>
     <script>
-        document.write("Hello, world! hai");
+<<<<<<< HEAD
+        document.write("Hello, world!");
+=======
+        document.write("Hello haihello");
+>>>>>>> bdcb0229338b66cf4b054c58b71ee86f765a2726
 
         document.write("hello Team");
      <script> 
