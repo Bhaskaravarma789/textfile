@@ -7,5 +7,10 @@
     <script>
         document.write("Hello, world!");
     </script>
+
+ // bug-122
+      
+    has done
+     
 </body>
 </html>
