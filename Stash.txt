@@ -6,6 +6,7 @@
 <body>
     <script>
         document.write("Hello, world!");
+	document.write("hi i am manikanta");
     </script>
 
  // bug-122
