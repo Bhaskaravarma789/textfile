@@ -6,20 +6,8 @@
 <body>
     <script>
         document.write("Hello, world!");
+
         document.write("hello Team");
-
-    </script>
-
- // bug-122
-      
-<<<<<<< Updated upstream
-    has done and ready to push
-=======
-    has done
-	
-	
-	// bug-121 has pending  
->>>>>>> Stashed changes
-     
+     <script> 
 </body>
 </html>
